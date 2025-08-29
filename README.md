@@ -1,2 +1,0 @@
-# STRUCTURAL BIOINFORMATICS GROUP
-PI: Prof. Dr. Ana Julia Velez Rueda
