@@ -1,8 +1,8 @@
 
-# Welcome to our **STRUCTURAL BIOINFORMATICS GROUP**'s GitHub Organization 👋
+# Welcome to our **STRUCTURAL AND FUNCTIONAL BIOINFORMATICS GROUP**'s GitHub Organization 👋
 
 🙋‍♀️ What is our organization all about?
-The **STRUCTURAL BIOINFORMATICS GROUP** is a research's group leaded by Prof. Dr. Ana Julia Velez Rueda, with focus in proteins function-structure relationship. 
+The **STRUCTURAL AND FUNCTIONAL BIOINFORMATICS GROUP** is a research's group leaded by Prof. Dr. Ana Julia Velez Rueda, with focus in proteins function-structure relationship. 
 
 
 
